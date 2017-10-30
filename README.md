@@ -2,7 +2,7 @@ Data Science with Julia
 ========================
 
 
-This repository contains code used in the [article here](https://www.analyticsvidhya.com/blog/2017/10/a-complete-tutorial-to-learn-data-science-with-julia-from-scratch/).
+This repository contains code used in the [article here](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/).
 
 
 ### Project Structure
